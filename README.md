@@ -126,7 +126,7 @@ APIs & Integrations:
   - Google Workspace (Sheets, Forms, Drive)
   - E-commerce (Shopify, WooCommerce, Amazon)
   - Communication (Telegram, Discord, Slack, Email)
-  - Payment (Stripe, PayPal, Wise)
+  - Payment (Stripe, Payoneer, Wise)
 
 Infrastructure:
   - Cloud Functions (Serverless)
